@@ -5,7 +5,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy": "gh-pages --dist public --repo https://github.com/colebemis/colebemis.github.io.git --branch master"
+    "deploy": "gh-pages --dist public --repo https://github.com/colebemis/colebemis.github.io.git --branch master --user 'Cole Bemis <cole@colebemis.com>'"
   },
   "repository": "colebemis/colebemis.com",
   "dependencies": {
